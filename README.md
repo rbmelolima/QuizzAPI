@@ -1,6 +1,6 @@
 # **Clean Node API**
 
-![Logo do curso](./public/logo-curso.png)
+![Logo do curso](./image/logo-curso.png)
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
 
