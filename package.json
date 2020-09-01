@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rbmelolima/QuizzAPI",
   "author": "Roger Bernardo de Melo Lima <rbmelolima@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.5.3"
+  }
 }
