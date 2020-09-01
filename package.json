@@ -1,0 +1,8 @@
+{
+  "name": "quizz-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rbmelolima/QuizzAPI",
+  "author": "Roger Bernardo de Melo Lima <rbmelolima@gmail.com>",
+  "license": "MIT"
+}
