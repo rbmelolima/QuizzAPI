@@ -6,8 +6,15 @@
   "author": "Roger Bernardo de Melo Lima <rbmelolima@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^2.5.3",
     "@types/node": "^14.6.2",
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "eslint": "7",
+    "eslint-config-standard-with-typescript": "^18.0.2",
+    "eslint-plugin-import": "2",
+    "eslint-plugin-node": "11",
+    "eslint-plugin-promise": "4",
+    "eslint-plugin-standard": "4",
+    "git-commit-msg-linter": "^2.5.3",
     "typescript": "^4.0.2"
-  }  
+  }
 }
