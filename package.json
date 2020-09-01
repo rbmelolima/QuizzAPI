@@ -6,6 +6,7 @@
   "author": "Roger Bernardo de Melo Lima <rbmelolima@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^26.0.12",
     "@types/node": "^14.6.2",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "eslint": "7",
@@ -16,7 +17,12 @@
     "eslint-plugin-standard": "4",
     "git-commit-msg-linter": "^2.5.3",
     "husky": "^4.2.5",
+    "jest": "^26.4.2",
     "lint-staged": "^10.2.13",
+    "ts-jest": "^26.3.0",
     "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
